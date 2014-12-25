@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">glassTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="home_team">home_team</string>
+    <string name="away_team">away_team</string>
+    <string name="game_quarter">game_quarter</string>
+
+    <string name="voice_trigger_start">Start Card</string>
+
+    <string name="menu_app_exit">exit</string>
+</resources>
